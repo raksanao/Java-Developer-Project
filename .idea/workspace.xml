@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="088862ae-7c3d-44a1-ae6d-43325a365b55" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection-review/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection-review/src/main/java/ArrayListReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection-review/src/main/java/MapReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection-review/src/main/java/SetReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection-review/src/main/java/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection-review/src/main/java/TwuSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generics/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generics/src/main/java/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generics/src/main/java/BaseBallPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generics/src/main/java/FootballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generics/src/main/java/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generics/src/main/java/SoccerPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generics/src/main/java/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generics/src/main/java/TeamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/AppleGreenColorPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/AppleHeavyPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/ApplePredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/AppleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/ArraySorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/BubleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/Sorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/comparatorinterface/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/comparatorinterface/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/comparatorinterface/ComparatorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/comparatorinterface/MyComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/doublecoloninterface/Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/doublecoloninterface/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/doublecoloninterface/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/doublecoloninterface/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/doublecoloninterface/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/doublecoloninterface/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/functionalinterface/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/functionalinterface/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/functionalinterface/UserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/review/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/review/CarFastPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/review/CarNewPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/review/CarPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/review/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/review/CarTestPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/task/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/task/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/task/OrangeFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/src/main/java/task/OrangeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop-review/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/src/main/java/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/src/main/java/CreatingStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/src/main/java/StreamOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/src/main/java/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/src/main/java/Task/Dish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/src/main/java/Task/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/src/main/java/Task/Type.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Tw9fAWrxdW4VAyV9jCjCLtcIka" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;13&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/ABC/IdeaProjects/Java_Developer_Project/streams/src/main/java/org/example/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review.CarTest" />
+      <module name="lambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="review.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreatingStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreatingStream" />
+      <module name="streams" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamOperations" />
+      <module name="streams" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task" />
+      <module name="streams" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.Test" />
+      <module name="streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Task" />
+        <item itemvalue="Application.StreamOperations" />
+        <item itemvalue="Application.CreatingStream" />
+        <item itemvalue="Application.CarTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="088862ae-7c3d-44a1-ae6d-43325a365b55" name="Changes" comment="" />
+      <created>1691943379604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691943379604</updated>
+      <workItem from="1691943380918" duration="10325000" />
+      <workItem from="1692035900460" duration="10002000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/collection-review/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/generics/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lambda/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/oop-review/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Stream/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
