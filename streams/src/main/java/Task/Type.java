@@ -1,5 +1,5 @@
 package Task;
 
 public enum Type {
-    MAET,FISH,OTHER
+    MEAT,FISH,OTHER
 }
