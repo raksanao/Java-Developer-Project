@@ -1,7 +1,3 @@
-package Task;
-
-import java.util.Comparator;
-
 import static java.util.Comparator.comparing;
 
 public class DishTask {
@@ -37,7 +33,7 @@ DishData.getAll().stream().
      Long dishes=  DishData.getAll().stream().count();
         System.out.println("dishes = " + dishes);
         
-        int dishCount=DishData.getAll().stream().map(d->1).reduce(0,(a,b)->a+b);
+        int dishCount= DishData.getAll().stream().map(d->1).reduce(0,(a, b)->a+b);
         System.out.println("dishCount = " + dishCount);
         
         

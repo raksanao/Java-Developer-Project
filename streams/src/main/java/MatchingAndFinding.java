@@ -1,8 +1,4 @@
-package Task;
-
-import java.util.List;
 import java.util.Optional;
-import java.util.stream.Collectors;
 
 public class MatchingAndFinding {
     public static void main(String[] args) {
@@ -23,12 +19,12 @@ public class MatchingAndFinding {
         System.out.println(isHealthey2);
 
         //find anydata
-     Optional<Dish> dish=DishData.getAll().stream().filter(Dish::isVegetarian).findAny();
+     Optional<Dish> dish= DishData.getAll().stream().filter(Dish::isVegetarian).findAny();
         System.out.println(dish.get());
 
         //find first
 
-        Optional<Dish> dish2=DishData.getAll().stream().filter(Dish::isVegetarian).findFirst();
+        Optional<Dish> dish2= DishData.getAll().stream().filter(Dish::isVegetarian).findFirst();
         System.out.println(dish2);
 
 

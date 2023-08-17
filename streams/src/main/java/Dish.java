@@ -1,5 +1,3 @@
-package Task;
-
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
