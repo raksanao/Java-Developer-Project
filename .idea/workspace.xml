@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="088862ae-7c3d-44a1-ae6d-43325a365b55" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/streams/src/main/java/InfiniteStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/streams/src/main/java/JavaCollectors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/streams/src/main/java/OptionalDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/streams/src/main/java/Trader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/streams/src/main/java/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/streams/src/main/java/TransactionData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/streams/src/main/java/TransactionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/src/main/java/BigDecimaldemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/streams/src/main/java/Task/Dish.java" beforeDir="false" afterPath="$PROJECT_DIR$/streams/src/main/java/Dish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/streams/src/main/java/Task/DishData.java" beforeDir="false" afterPath="$PROJECT_DIR$/streams/src/main/java/DishData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/streams/src/main/java/Task/DishTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/streams/src/main/java/DishTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/streams/src/main/java/Task/MatchingAndFinding.java" beforeDir="false" afterPath="$PROJECT_DIR$/streams/src/main/java/MatchingAndFinding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/streams/src/main/java/Task/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/streams/src/main/java/Type.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +58,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OptionalDemo">
+  <component name="RunManager" selected="Application.BigDecimaldemo">
+    <configuration name="BigDecimaldemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BigDecimaldemo" />
+      <module name="streams" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InfiniteStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InfiniteStream" />
       <module name="streams" />
@@ -91,13 +87,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StateTest" />
-      <module name="streams" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TransactionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TransactionTest" />
       <module name="streams" />
@@ -107,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BigDecimaldemo" />
         <item itemvalue="Application.OptionalDemo" />
         <item itemvalue="Application.JavaCollectors" />
         <item itemvalue="Application.InfiniteStream" />
         <item itemvalue="Application.TransactionTest" />
-        <item itemvalue="Application.StateTest" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1691943379604</updated>
       <workItem from="1691943380918" duration="10325000" />
-      <workItem from="1692035900460" duration="30476000" />
+      <workItem from="1692035900460" duration="31193000" />
     </task>
     <task id="LOCAL-00001" summary="Flat Map">
       <option name="closed" value="true" />
@@ -158,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692159315577</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Optional">
+      <option name="closed" value="true" />
+      <created>1692245102006</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692245102006</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,7 +167,8 @@
     <MESSAGE value="Matching and finding" />
     <MESSAGE value="Reducing" />
     <MESSAGE value="State test" />
-    <option name="LAST_COMMIT_MESSAGE" value="State test" />
+    <MESSAGE value="Optional" />
+    <option name="LAST_COMMIT_MESSAGE" value="Optional" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
